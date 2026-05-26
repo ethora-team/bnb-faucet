@@ -5,12 +5,10 @@
   <br/><br/>
 
 [![CI](https://github.com/ethora-team/bnb-faucet/actions/workflows/ci.yml/badge.svg)] ((https://github.com/ethora-team/bnb-faucet/actions/workflows/ci.yml)
-[![CI](https://github.com/ethora-team/bnb-faucet/actions/workflows/ci.yml/badge.svg)](https://github.com/ethora-team/bnb-faucet/actions/workflows/ci.yml)
 [![Codecov](https://codecov.io/gh/ethora-team/bnb-faucet/branch/main/graph/badge.svg)](https://codecov.io/gh/ethora-team/bnb-faucet)
 [![npm version](https://img.shields.io/npm/v/@ethora/faucet-sdk.svg?color=f0b90b)](https://www.npmjs.com/package/@ethora/faucet-sdk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Contracts Audited](https://img.shields.io/badge/contracts-audited-00d4aa)](./audits)
-[![Discord](https://img.shields.io/discord/000000000000000000?color=7289da&label=discord)](https://discord.gg/ethora)
 
 **The most reliable BEP-20 faucet on BNB Smart Chain.**
 
