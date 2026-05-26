@@ -1,7 +1,7 @@
 # Ethora BNB Faucet
 
 <div align="center">
-  <img src="./assets/logo.png" alt="Ethora Faucet" width="480" />
+  <img src="https://raw.githubusercontent.com/ethora-team/bnb-faucet/main/assets/logo.png" alt="Ethora Faucet" width="480" />
   <br/><br/>
 
 [![CI](https://github.com/ethora-team/bnb-faucet/actions/workflows/ci.yml/badge.svg)] ((https://github.com/ethora-team/bnb-faucet/actions/workflows/ci.yml)
