@@ -1,7 +1,7 @@
 # Ethora BNB Faucet
 
 <div align="center">
-  <img src="./assets/ethora.png" alt="Ethora Faucet" width="240" />
+  <img src="./assets/ethora.png" alt="Ethora Faucet" width="340" />
   <br/><br/>
 
 [![Coverage](https://img.shields.io/badge/coverage-94%25-00d4aa)](./packages)
