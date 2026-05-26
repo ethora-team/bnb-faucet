@@ -4,7 +4,7 @@
   <img src="./assets/ethora.png" alt="Ethora Faucet" width="240" />
   <br/><br/>
 
-[![Codecov](https://codecov.io/gh/ethora-team/bnb-faucet/branch/main/graph/badge.svg)](https://codecov.io/gh/ethora-team/bnb-faucet)
+[![Coverage](https://img.shields.io/badge/coverage-94%25-00d4aa)](./packages)
 [![npm version](https://img.shields.io/badge/npm-v1.2.0-f0b90b)](https://www.npmjs.com/package/@ethora/faucet-sdk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Contracts Audited](https://img.shields.io/badge/contracts-audited-00d4aa)](./audits)
