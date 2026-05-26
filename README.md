@@ -14,7 +14,7 @@
 Claim USDT, USDC, ETH, WBNB, CAKE and 21 more testnet tokens instantly.
 Free for developers, auditors and blockchain learners.
 
-[**→ Live Faucet**](https://dropfaucet.io) · [**→ API Docs**](https://dropfaucet.io/api-docs) · [**→ SDK Reference**](./packages/sdk) · [**→ Bug Report**](https://github.com/ethora-labs/bnb-faucet/issues/new?template=bug_report.md)
+[**→ Live Faucet**](https://ethora.org) · [**→ API Docs**](https://ethora.org/api-docs) · [**→ SDK Reference**](./packages/sdk) · [**→ Bug Report**](https://github.com/ethora-team/bnb-faucet/issues/new?template=bug_report.md)
 
 </div>
 
