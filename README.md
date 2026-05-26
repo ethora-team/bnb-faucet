@@ -1,7 +1,7 @@
 # Ethora RPC
 
 <div align="center">
-  <img src="./assets/ethora.png" alt="Ethora Faucet" width="340" />
+  <img src="./assets/ethora.png" alt="Ethora Faucet" width="480" />
   <br/><br/>
 
 [![Coverage](https://img.shields.io/badge/coverage-94%25-00d4aa)](./packages)
