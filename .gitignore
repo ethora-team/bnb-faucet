@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build outputs
+dist/
+build/
+out/
+.next/
+coverage/
+typechain-types/
+artifacts/
+cache/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Hardhat
+deployments/localhost/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Misc
+.turbo/
+*.tsbuildinfo

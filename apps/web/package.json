@@ -1,0 +1,15 @@
+{
+  "name": "web",
+  "version": "1.2.0",
+  "private": true,
+  "description": "Ethora BNB Faucet — frontend",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src --ext .js,.ts"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  }
+}

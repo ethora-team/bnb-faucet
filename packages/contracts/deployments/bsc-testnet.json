@@ -1,0 +1,26 @@
+{
+  "network": "bscTestnet",
+  "chainId": 97,
+  "deployedAt": "2024-03-15T10:22:00Z",
+  "contracts": {
+    "FaucetRegistry": {
+      "address": "0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B",
+      "block": 38100001
+    },
+    "FaucetController": {
+      "proxy": "0x41228B7b96150BB7760087786bC93E6f6f2B8f0f",
+      "implementation": "0x0000000000000000000000000000000000000001",
+      "block": 38100042
+    },
+    "tokens": {
+      "USDT": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
+      "USDC": "0x64544969ed7EBf5f083679233325356EbE738930",
+      "WBNB": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+      "ETH":  "0xd66c6B4F0be8CE5b39D52E0Fd1344c389929B378",
+      "CAKE": "0xFa60D973F7642B748046464e165A65B7323b0C73",
+      "LINK": "0x84b9B910527Ad5C03A9Ca831909E21e236EA7b06",
+      "UNI":  "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+      "DAI":  "0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867"
+    }
+  }
+}
