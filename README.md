@@ -1,4 +1,4 @@
-# Ethora BNB Faucet
+# Ethora BNB RPC
 
 <div align="center">
   <img src="./assets/ethora.png" alt="Ethora Faucet" width="340" />
