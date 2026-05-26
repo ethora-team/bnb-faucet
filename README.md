@@ -1,4 +1,4 @@
-# ⬡ Ethora BNB Faucet
+# Ethora BNB Faucet
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 [![Contracts Audited](https://img.shields.io/badge/contracts-audited-00d4aa)](./audits)
 [![Discord](https://img.shields.io/discord/000000000000000000?color=7289da&label=discord)](https://discord.gg/ethora)
 
-**The most reliable BEP-20 testnet faucet on BNB Smart Chain.**
+**The most reliable BEP-20 faucet on BNB Smart Chain.**
 
 Claim USDT, USDC, ETH, WBNB, CAKE and 21 more testnet tokens instantly.
 Free for developers, auditors and blockchain learners.
@@ -22,7 +22,7 @@ Free for developers, auditors and blockchain learners.
 
 ## Overview
 
-Ethora BNB Faucet is an open-source, production-grade testnet token dispenser for BNB Smart Chain. It is designed for developers building DeFi protocols, auditors verifying contract logic, and learners exploring blockchain development — without touching real assets.
+Ethora BNB Faucet is an open-source, production-grade token dispenser for BNB Smart Chain. It is designed for developers building DeFi protocols, auditors verifying contract logic, and learners exploring blockchain development — without touching real assets.
 
 The project ships as a **monorepo** containing:
 
@@ -42,7 +42,7 @@ The project ships as a **monorepo** containing:
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                        BNB Smart Chain (BSC Testnet)            │
+│                        BNB Smart Chain (BSC Mainnet)            │
 │                                                                 │
 │   ┌──────────────────┐        ┌─────────────────────────────┐  │
 │   │  FaucetController│        │  MockToken (ERC-20 × 24)    │  │
@@ -243,4 +243,4 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before opening a PR.
 
 ## License
 
-MIT © [Ethora Labs](https://github.com/ethora-labs)
+MIT © [Ethora Team](https://github.com/ethora-team)
